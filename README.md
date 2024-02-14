@@ -9,7 +9,7 @@
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
- <img width="300px" src="https://img.shields.io/badge/react%20-8A2BE2"/>
+ <img width="100px" src="https://img.shields.io/badge/react%20-8A2BE2"/>
  
 
 
